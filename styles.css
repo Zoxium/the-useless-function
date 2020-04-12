@@ -1,0 +1,50 @@
+body {
+    background-color: black;    
+}
+
+
+p {
+    font-family: "Inconsolata";
+    color: white;
+    margin: auto;
+    font-size: 1.25em;
+}
+
+h1 {
+    font-family: "Inconsolata";
+    margin: auto;
+    font-size: 3em;
+    color: white;
+}
+
+h2 {
+    font-family: "Inconsolata";
+    margin: auto;
+    font-size: 2em;
+    color: white;
+}
+
+hr {
+    height: 3px;
+    width: 100%;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    color: white;
+    background-color: white;
+}
+
+#examples {
+    margin-left: 50px;
+}
+
+sup {
+    font-size: 0.75em;
+}
+
+sub {
+    font-size: 0.75em;
+}
+
+small {
+    font-size: 10px;
+}
